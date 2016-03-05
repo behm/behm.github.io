@@ -2,7 +2,7 @@ full_rebuild: true
 name: Brian Behm
 description: my blog site
 destination: jekyllbuild
-url: behm.io
+url: http://behm.io
 baseurl: /
 permalink: /:title/
 paginate: 8
