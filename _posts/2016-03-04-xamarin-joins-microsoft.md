@@ -1,7 +1,7 @@
 ---
 author: brian
 title: Xamarin Joins Microsoft 
-featimg: xamarin-joins-microsoft.jpg
+featimg: xamarin-joins-microsoft.png
 tags: [Microsoft, Xamarin]
 category: [mobile apps]
 ---
