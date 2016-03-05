@@ -3,7 +3,7 @@ name: Brian Behm
 description: my blog site
 destination: jekyllbuild
 url: http://behm.io
-baseurl: /
+baseurl: 
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
