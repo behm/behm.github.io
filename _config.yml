@@ -2,8 +2,8 @@ full_rebuild: true
 name: Brian Behm
 description: my blog site
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: behm.io
+baseurl: /
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
