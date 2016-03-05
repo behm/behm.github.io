@@ -1,5 +1,5 @@
 ---
-author: brian behm
+author: brian
 title: Xamarin Acquired by Microsoft 
 featimg: 1.jpg
 tags: [Microsoft] [Xamarin]
